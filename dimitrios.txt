@@ -1,1 +1,2 @@
 Hello this is a test made from local spoon repository 
+Let's now add some new text this time from the GitHub on-Line access point (via my browser ) .
